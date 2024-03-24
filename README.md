@@ -162,7 +162,7 @@ plt.show()
 ![image](https://github.com/ShanmathiShanmugam/EXNO-3-DS/assets/121243595/1252aab3-27f9-49df-9b7b-0d53b2104cdb)
 
 # RESULT:
-       The given data has been performed Feature Encoding and Transformation process successfully.
+The given data has been performed Feature Encoding and Transformation process successfully.
 
 
        
